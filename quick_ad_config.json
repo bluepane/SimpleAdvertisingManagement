@@ -1,12 +1,12 @@
 {
     "ad_QuickTranslate": {
         "ad_is_valid":true,
-        "version":"1.0.0",
-        "ad_url":"https://raw.githubusercontent.com/bluepane/JewelryPlate/master/jphomeimg3.png",
+        "ad_url":"https://raw.githubusercontent.com/bluepane/SimpleAdvertisingManagement/master/ad_file/ad_v_img_1.jpeg",
         "ad_type":"1",
         "ad_width":"200",
         "ad_height":"160",
         "ad_show_time":"5",
         "ad_detail":"fast",
+        "version":"1.0.0"
     }
 }
